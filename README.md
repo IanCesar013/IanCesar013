@@ -28,24 +28,6 @@ Systems Information student interested in Software Development and Artificial In
 
 </div>
 
-📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IanCesar013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCesar013&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=IanCesar013&theme=tokyonight&hide_border=false"/>
-
-</div>
-
 🐍 My Contributions
 
 <div align="center">
