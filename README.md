@@ -1,20 +1,26 @@
 <div align="center">
 
+Systems Information student interested in Software Development and Artificial Intelligence. Currently learning programming fundamentals and exploring Python, Java, JavaScript, HTML, CSS, Git, GitHub, and modern development technologies. I’m focused on improving my skills through practice, building projects, and growing as a developer.
+
+<br>
+
 <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" width="400">
 
-🎓 Sistemas de Informação | 💻 Programação | 🤖 Inteligência Artificial
+<br>
+
+🎓 Systems Information | 💻 Software Development | 🤖 Artificial Intelligence
 
 </div>
 
-🛠️ Tecnologias
+💻 Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,git,github,vscode" />
 
 </div>
 
-🌐 Conecte-se comigo
+🌐 Connect with me
 
 <div align="center">
 
